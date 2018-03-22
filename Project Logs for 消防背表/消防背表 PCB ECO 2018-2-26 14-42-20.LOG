@@ -1,0 +1,158 @@
+Added Component: Designator=LED1(LED-R3-H5-DOUBLE)
+Added Component: Designator=LED2(CLED1608-0603)
+Added Component: Designator=LED3(LED-R3-H5-DOUBLE)
+Added Component: Designator=M1(Screw hexagon 3mm)
+Added Component: Designator=M2(Screw hexagon 3mm)
+Added Component: Designator=M3(Screw hexagon 3mm)
+Added Component: Designator=M4(Screw hexagon 3mm)
+Added Component: Designator=N3(SOT23-3)
+Added Component: Designator=P1(HX2.54-3)
+Added Component: Designator=P2(HX2.54-4)
+Added Component: Designator=P3(HDR1X2)
+Added Component: Designator=P5(HDR1X4)
+Added Component: Designator=P7(HDR1X2)
+Added Component: Designator=U1(BLE_CC2451)
+Added Component: Designator=U2(E32_433)
+Added Component: Designator=U3(SI4463)
+Added Component: Designator=U5(SOP-8_150mil)
+Added Component: Designator=U6(LQFP-48)
+Added Component: Designator=U7(SOT-23-6)
+Added Component: Designator=U9(SOP-8_150mil)
+Added Component: Designator=Y1(XTAL-SMD)
+Added Pin To Net: NetName=GND Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_3 Pin=LED1-3
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=VCC Pin=LED3-1
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_3 Pin=LED3-3
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=DS18B20_DQ Pin=P1-2
+Added Pin To Net: NetName=VCC3.3V Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=OUT- Pin=P2-2
+Added Pin To Net: NetName=OUT+ Pin=P2-3
+Added Pin To Net: NetName=VCC3.3V Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=VCC Pin=P3-2
+Added Pin To Net: NetName=GND Pin=P5-1
+Added Pin To Net: NetName=NetP5_2 Pin=P5-2
+Added Pin To Net: NetName=NetP5_3 Pin=P5-3
+Added Pin To Net: NetName=VDD3.3 Pin=P5-4
+Added Pin To Net: NetName=VCC3.3V Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=BLE_INT Pin=U1-3
+Added Pin To Net: NetName=BLE_WKUP Pin=U1-4
+Added Pin To Net: NetName=BLE_RXD Pin=U1-5
+Added Pin To Net: NetName=BLE_TXD Pin=U1-6
+Added Pin To Net: NetName=BLE_RST Pin=U1-7
+Added Pin To Net: NetName=WIR433M0 Pin=U2-1
+Added Pin To Net: NetName=WIR433M1 Pin=U2-2
+Added Pin To Net: NetName=WIR433_TXD Pin=U2-3
+Added Pin To Net: NetName=WIR433_RXD Pin=U2-4
+Added Pin To Net: NetName=WIR433_AUX Pin=U2-5
+Added Pin To Net: NetName=VCC_BAT Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-9
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Pin To Net: NetName=GND Pin=U2-16
+Added Pin To Net: NetName=GND Pin=U2-17
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=VCC3.3V Pin=U3-2
+Added Pin To Net: NetName=SI_IRQ Pin=U3-5
+Added Pin To Net: NetName=SI_SCK Pin=U3-6
+Added Pin To Net: NetName=SI_SDO Pin=U3-7
+Added Pin To Net: NetName=SI_SDI Pin=U3-8
+Added Pin To Net: NetName=SI_RST Pin=U3-9
+Added Pin To Net: NetName=SI_SDN Pin=U3-10
+Added Pin To Net: NetName=GND Pin=U3-11
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=NetR19_2 Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=VCC Pin=U5-4
+Added Pin To Net: NetName=VCC_BAT Pin=U5-5
+Added Pin To Net: NetName=NetR17_1 Pin=U5-6
+Added Pin To Net: NetName=NetR18_1 Pin=U5-7
+Added Pin To Net: NetName=VCC Pin=U5-8
+Added Pin To Net: NetName=SPK_BUSY Pin=U6-2
+Added Pin To Net: NetName=OLED RST Pin=U6-4
+Added Pin To Net: NetName=NetC36_1 Pin=U6-5
+Added Pin To Net: NetName=NetC40_1 Pin=U6-6
+Added Pin To Net: NetName=NetC35_2 Pin=U6-7
+Added Pin To Net: NetName=GND Pin=U6-8
+Added Pin To Net: NetName=VDD3.3 Pin=U6-9
+Added Pin To Net: NetName=Batt_ADC Pin=U6-10
+Added Pin To Net: NetName=SI_RST Pin=U6-11
+Added Pin To Net: NetName=WIR433_TXD Pin=U6-12
+Added Pin To Net: NetName=WIR433_RXD Pin=U6-13
+Added Pin To Net: NetName=SI_SDN Pin=U6-14
+Added Pin To Net: NetName=SI_SCK Pin=U6-15
+Added Pin To Net: NetName=SI_SDO Pin=U6-16
+Added Pin To Net: NetName=SI_SDI Pin=U6-17
+Added Pin To Net: NetName=KEY_ADC Pin=U6-18
+Added Pin To Net: NetName=Air_ADC Pin=U6-19
+Added Pin To Net: NetName=SI_IRQ Pin=U6-20
+Added Pin To Net: NetName=BLE_TXD Pin=U6-21
+Added Pin To Net: NetName=BLE_RXD Pin=U6-22
+Added Pin To Net: NetName=GND Pin=U6-23
+Added Pin To Net: NetName=VDD3.3 Pin=U6-24
+Added Pin To Net: NetName=BLE_INT Pin=U6-25
+Added Pin To Net: NetName=BLE_WKUP Pin=U6-26
+Added Pin To Net: NetName=BLE_RST Pin=U6-27
+Added Pin To Net: NetName=DS18B20_DQ Pin=U6-28
+Added Pin To Net: NetName=LED_BLUE Pin=U6-29
+Added Pin To Net: NetName=SPK_TX Pin=U6-30
+Added Pin To Net: NetName=LED_YELLOW Pin=U6-32
+Added Pin To Net: NetName=LED_RED Pin=U6-33
+Added Pin To Net: NetName=NetP5_3 Pin=U6-34
+Added Pin To Net: NetName=GND Pin=U6-35
+Added Pin To Net: NetName=VDD3.3 Pin=U6-36
+Added Pin To Net: NetName=NetP5_2 Pin=U6-37
+Added Pin To Net: NetName=POWER_EN Pin=U6-39
+Added Pin To Net: NetName=OLED D1 Pin=U6-40
+Added Pin To Net: NetName=OLED D0 Pin=U6-41
+Added Pin To Net: NetName=OLED DC Pin=U6-42
+Added Pin To Net: NetName=WIR433_AUX Pin=U6-43
+Added Pin To Net: NetName=WIR433M0 Pin=U6-45
+Added Pin To Net: NetName=WIR433M1 Pin=U6-46
+Added Pin To Net: NetName=GND Pin=U6-47
+Added Pin To Net: NetName=VDD3.3 Pin=U6-48
+Added Pin To Net: NetName=VCC_BAT Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=NetR20_1 Pin=U7-3
+Added Pin To Net: NetName=NetC29_2 Pin=U7-4
+Added Pin To Net: NetName=VCC3.3V Pin=U7-6
+Added Pin To Net: NetName=SPK_BUSY Pin=U9-1
+Added Pin To Net: NetName=SPK_TX Pin=U9-2
+Added Pin To Net: NetName=VCC3.3V Pin=U9-6
+Added Pin To Net: NetName=GND Pin=U9-8
+Added Pin To Net: NetName=NetC40_1 Pin=Y1-1
+Added Pin To Net: NetName=NetC36_1 Pin=Y1-2
+Added Pin To Net: NetName=NetP7_1 Pin=P7-1
+Added Pin To Net: NetName=NetP7_1 Pin=U9-7
+Added Net: Name=NetP7_1
+Added Pin To Net: NetName=NetP7_2 Pin=P7-2
+Added Pin To Net: NetName=NetP7_2 Pin=U9-5
+Added Net: Name=NetP7_2
+Added Member To Class: ClassName=消防背表 Member=Component LED1 LED-3-DOUBLE
+Added Member To Class: ClassName=消防背表 Member=Component LED2 LED Chip
+Added Member To Class: ClassName=消防背表 Member=Component LED3 LED-3-DOUBLE
+Added Member To Class: ClassName=消防背表 Member=Component M1 Screw Hole
+Added Member To Class: ClassName=消防背表 Member=Component M2 Screw Hole
+Added Member To Class: ClassName=消防背表 Member=Component M3 Screw Hole
+Added Member To Class: ClassName=消防背表 Member=Component M4 Screw Hole
+Added Member To Class: ClassName=消防背表 Member=Component P1 Header 3
+Added Member To Class: ClassName=消防背表 Member=Component P2 Header 4
+Added Member To Class: ClassName=消防背表 Member=Component P3 Header 2
+Added Member To Class: ClassName=消防背表 Member=Component P5 Header 4
+Added Member To Class: ClassName=消防背表 Member=Component P7 Header 2
+Added Member To Class: ClassName=消防背表 Member=Component U1 CC2541V7
+Added Member To Class: ClassName=消防背表 Member=Component U2 E32-433
+Added Member To Class: ClassName=消防背表 Member=Component U3 SI4463
+Added Member To Class: ClassName=消防背表 Member=Component U5 TP4056
+Added Member To Class: ClassName=消防背表 Member=Component U6 STM32F103C6T6_1
+Added Member To Class: ClassName=消防背表 Member=Component U7 SPX3819M5-L-3-3
+Added Member To Class: ClassName=消防背表 Member=Component U9 WTN
+Added Member To Class: ClassName=消防背表 Member=Component Y1 XTAL
+Added Room: Name=消防背表

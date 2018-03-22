@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=GND Pin=P5-1
+Removed Pin From Net: NetName=VDD3.3 Pin=P5-4
+Removed Pin From Net: NetName=NetP5_2 Pin=U6-37
+Removed Member From Class: ClassName=消防背表 Member=R30
+Removed Member From Class: ClassName=消防背表 Member=R31
+Removed Member From Class: ClassName=消防背表 Member=R32
+Change Component DesignItemId : Designator=P5 Old DesignItemId=Header 4 New DesignItemId=Header 2
+Change Component Comment : Designator=P5 Old Comment=Header 4 New Comment=Header 2
+Change Component Designator: OldDesignator=C16 NewDesignator=C8
+Change Component Designator: OldDesignator=C17 NewDesignator=C9
+Change Component Designator: OldDesignator=C18 NewDesignator=C10
+Change Component Designator: OldDesignator=C19 NewDesignator=C11
+Change Component Designator: OldDesignator=C20 NewDesignator=C12
+Change Component Designator: OldDesignator=C21 NewDesignator=C13
+Change Component Designator: OldDesignator=C22 NewDesignator=C14
+Change Component Designator: OldDesignator=C23 NewDesignator=C15
+Change Component Designator: OldDesignator=C24 NewDesignator=C16
+Change Component Designator: OldDesignator=C25 NewDesignator=C17
+Change Component Designator: OldDesignator=C26 NewDesignator=C18
+Change Component Designator: OldDesignator=C27 NewDesignator=C19
+Change Component Designator: OldDesignator=C28 NewDesignator=C20
+Change Component Designator: OldDesignator=C29 NewDesignator=C21
+Change Component Designator: OldDesignator=C30 NewDesignator=C22
+Change Component Designator: OldDesignator=C31 NewDesignator=C23
+Change Component Designator: OldDesignator=C32 NewDesignator=C24
+Change Component Designator: OldDesignator=C33 NewDesignator=C25
+Change Component Designator: OldDesignator=C34 NewDesignator=C26
+Change Component Designator: OldDesignator=C35 NewDesignator=C28
+Change Component Designator: OldDesignator=C36 NewDesignator=C35
+Change Component Designator: OldDesignator=C39 NewDesignator=C27
+Change Component Designator: OldDesignator=C40 NewDesignator=C37
+Change Component Designator: OldDesignator=C42 NewDesignator=C7
+Change Component Designator: OldDesignator=N3 NewDesignator=N1
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R17
+Change Component Designator: OldDesignator=R16 NewDesignator=R22
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Change Component Designator: OldDesignator=R18 NewDesignator=R20
+Change Component Designator: OldDesignator=R19 NewDesignator=R21
+Change Component Designator: OldDesignator=R20 NewDesignator=R23
+Change Component Designator: OldDesignator=R21 NewDesignator=R24
+Change Component Designator: OldDesignator=R30 NewDesignator=R18
+Change Component Designator: OldDesignator=R31 NewDesignator=R11
+Change Component Designator: OldDesignator=R32 NewDesignator=R16
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U9 NewDesignator=U8
+Change Component Description : Designator=P5 Old Description=Header, 4-Pin New Description=Header, 2-Pin
+Added Pin To Net: NetName=NetP5_2 Pin=U8-5
+Change Net Name : Old Net Name=NetC16_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetC17_2 New Net Name=NetC9_2
+Change Net Name : Old Net Name=NetC18_1 New Net Name=NetC10_1
+Change Net Name : Old Net Name=NetC18_2 New Net Name=NetC10_2
+Change Net Name : Old Net Name=NetC19_1 New Net Name=NetC11_1
+Change Net Name : Old Net Name=NetC19_2 New Net Name=NetC11_2
+Change Net Name : Old Net Name=NetC29_2 New Net Name=NetC21_2
+Change Net Name : Old Net Name=NetC35_2 New Net Name=NetC28_2
+Change Net Name : Old Net Name=NetC36_1 New Net Name=NetC35_1
+Change Net Name : Old Net Name=NetC40_1 New Net Name=NetC37_1
+Change Net Name : Old Net Name=NetN3_1 New Net Name=NetN1_1
+Change Net Name : Old Net Name=NetN3_3 New Net Name=NetN1_3
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR19_1
+Change Net Name : Old Net Name=NetR18_1 New Net Name=NetR20_1
+Change Net Name : Old Net Name=NetR19_2 New Net Name=NetR21_2
+Change Net Name : Old Net Name=NetR20_1 New Net Name=NetR23_1
+Added Pin To Net: NetName=NetP5_1 Pin=P5-1
+Added Pin To Net: NetName=NetP5_1 Pin=U8-7
+Added Net: Name=NetP5_1
+Added Pin To Net: NetName=NetP6_2 Pin=U6-37
+Added Net: Name=NetP6_2
+Added Pin To Net: NetName=NetP6_3 Pin=U6-34
+Added Net: Name=NetP6_3
+Added Member To Class: ClassName=消防背表 Member=Component R22 10KΩ (1003) ±1%
+Added Member To Class: ClassName=消防背表 Member=Component R23 1KΩ (1001) ±1%
+Added Member To Class: ClassName=消防背表 Member=Component R24 10KΩ (1002) ±1%
+Added Room: Name=消防背表

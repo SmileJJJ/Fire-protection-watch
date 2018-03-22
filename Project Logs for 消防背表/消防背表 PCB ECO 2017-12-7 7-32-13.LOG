@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=AMP_SD Pin=U6-2
+Removed Pin From Net: NetName=SPK_BUSY Pin=U6-3
+Removed Pin From Net: NetName=WIR433_AUX Pin=U6-29
+Removed Pin From Net: NetName=WIR433M0 Pin=U6-32
+Removed Pin From Net: NetName=WIR433M1 Pin=U6-33
+Removed Pin From Net: NetName=LED_RED Pin=U6-40
+Removed Pin From Net: NetName=LED_YELLOW Pin=U6-41
+Removed Pin From Net: NetName=LED_BLUE Pin=U6-42
+Added Pin To Net: NetName=SPK_BUSY Pin=U6-2
+Added Pin To Net: NetName=AMP_SD Pin=U6-3
+Added Pin To Net: NetName=LED_RED Pin=U6-29
+Added Pin To Net: NetName=LED_YELLOW Pin=U6-32
+Added Pin To Net: NetName=LED_BLUE Pin=U6-33
+Added Pin To Net: NetName=WIR433_AUX Pin=U6-40
+Added Pin To Net: NetName=WIR433M0 Pin=U6-41
+Added Pin To Net: NetName=WIR433M1 Pin=U6-42

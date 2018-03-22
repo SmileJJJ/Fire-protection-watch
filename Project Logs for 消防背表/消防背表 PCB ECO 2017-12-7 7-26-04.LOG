@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=OLED DC Pin=U6-27
+Removed Pin From Net: NetName=BLE_RST Pin=U6-46
+Added Pin To Net: NetName=BLE_RST Pin=U6-27

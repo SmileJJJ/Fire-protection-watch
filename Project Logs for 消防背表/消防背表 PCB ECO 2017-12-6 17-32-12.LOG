@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VCC3.3 Pin=C30-2
+Removed Pin From Net: NetName=VCC3.3 Pin=U7-6
+Removed Pin From Net: NetName=VCC3.3 Pin=U8-7
+Removed Pin From Net: NetName=VCC3.3 Pin=U8-8
+Added Pin To Net: NetName=VCC3.3V Pin=C30-2
+Added Pin To Net: NetName=VCC3.3V Pin=U7-6
+Added Pin To Net: NetName=VCC3.3V Pin=U8-7
+Added Pin To Net: NetName=VCC3.3V Pin=U8-8
+Added Member To Class: ClassName=Ïû·À±³±í Member=Component C43 10uF (106) 10% 25V

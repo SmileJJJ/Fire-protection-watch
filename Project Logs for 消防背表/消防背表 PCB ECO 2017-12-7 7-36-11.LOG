@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Air_ADC Pin=U6-18
+Removed Pin From Net: NetName=KEY_ADC Pin=U6-19
+Added Pin To Net: NetName=KEY_ADC Pin=U6-18
+Added Pin To Net: NetName=Air_ADC Pin=U6-19

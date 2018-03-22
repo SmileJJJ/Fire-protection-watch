@@ -1,0 +1,34 @@
+Added Component: Designator=P4(HDR1X2)
+Added Component: Designator=S1(Switch1)
+Added Component: Designator=S2(Switch1)
+Added Component: Designator=S3(Switch1)
+Added Component: Designator=S4(Switch1)
+Added Component: Designator=S5(Switch1)
+Added Pin To Net: NetName=VCC_BAT Pin=P4-1
+Added Pin To Net: NetName=GND Pin=P4-2
+Added Pin To Net: NetName=NetR2_2 Pin=S1-1
+Added Pin To Net: NetName=NetR2_2 Pin=S1-1
+Added Pin To Net: NetName=KEY_ADC Pin=S1-2
+Added Pin To Net: NetName=KEY_ADC Pin=S1-2
+Added Pin To Net: NetName=NetR3_2 Pin=S2-1
+Added Pin To Net: NetName=NetR3_2 Pin=S2-1
+Added Pin To Net: NetName=KEY_ADC Pin=S2-2
+Added Pin To Net: NetName=KEY_ADC Pin=S2-2
+Added Pin To Net: NetName=NetR4_2 Pin=S3-1
+Added Pin To Net: NetName=NetR4_2 Pin=S3-1
+Added Pin To Net: NetName=KEY_ADC Pin=S3-2
+Added Pin To Net: NetName=KEY_ADC Pin=S3-2
+Added Pin To Net: NetName=NetR8_2 Pin=S4-1
+Added Pin To Net: NetName=NetR8_2 Pin=S4-1
+Added Pin To Net: NetName=KEY_ADC Pin=S4-2
+Added Pin To Net: NetName=KEY_ADC Pin=S4-2
+Added Pin To Net: NetName=NetR9_2 Pin=S5-1
+Added Pin To Net: NetName=NetR9_2 Pin=S5-1
+Added Pin To Net: NetName=KEY_ADC Pin=S5-2
+Added Pin To Net: NetName=KEY_ADC Pin=S5-2
+Added Member To Class: ClassName=消防背表 Member=Component P4 Header 2
+Added Member To Class: ClassName=消防背表 Member=Component S1 Switch
+Added Member To Class: ClassName=消防背表 Member=Component S2 Switch
+Added Member To Class: ClassName=消防背表 Member=Component S3 Switch
+Added Member To Class: ClassName=消防背表 Member=Component S4 Switch
+Added Member To Class: ClassName=消防背表 Member=Component S5 Switch

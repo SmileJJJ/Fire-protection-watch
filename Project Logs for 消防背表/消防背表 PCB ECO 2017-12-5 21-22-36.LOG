@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VCC_BAT Pin=USB_?-1
+Change Component Designator: OldDesignator=USB_? NewDesignator=USB
+Added Pin To Net: NetName=VCC Pin=USB-1

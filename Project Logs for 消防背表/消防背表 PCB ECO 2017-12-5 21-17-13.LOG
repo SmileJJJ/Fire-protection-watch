@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=KEY_ADC Pin=S1-2
+Removed Pin From Net: NetName=NetR2_2 Pin=S1-3
+Removed Pin From Net: NetName=KEY_ADC Pin=S1-4
+Removed Pin From Net: NetName=NetR3_2 Pin=S2-3
+Removed Pin From Net: NetName=KEY_ADC Pin=S2-4
+Removed Pin From Net: NetName=NetR4_2 Pin=S3-3
+Removed Pin From Net: NetName=KEY_ADC Pin=S3-4
+Removed Pin From Net: NetName=NetR8_2 Pin=S4-3
+Removed Pin From Net: NetName=KEY_ADC Pin=S4-4
+Removed Pin From Net: NetName=NetR9_2 Pin=S5-3
+Removed Pin From Net: NetName=KEY_ADC Pin=S5-4
+Change Component Footprint: Designator=S1 Old Footprint=立式按键 New Footprint=Switch1
+Change Component Footprint: Designator=S2 Old Footprint=立式按键 New Footprint=Switch1
+Change Component Footprint: Designator=S3 Old Footprint=立式按键 New Footprint=Switch1
+Change Component Footprint: Designator=S4 Old Footprint=立式按键 New Footprint=Switch1
+Change Component Footprint: Designator=S5 Old Footprint=立式按键 New Footprint=Switch1
+Change Component Comment : Designator=S1 Old Comment=SW-DPST New Comment=Switch
+Change Component Comment : Designator=S2 Old Comment=SW-DPST New Comment=Switch
+Change Component Comment : Designator=S3 Old Comment=SW-DPST New Comment=Switch
+Change Component Comment : Designator=S4 Old Comment=SW-DPST New Comment=Switch
+Change Component Comment : Designator=S5 Old Comment=SW-DPST New Comment=Switch
+Change component parameters: Designator = "S1"; Footprint = "Switch1"; UniqueID = "\AQUDJSIB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "S2"; Footprint = "Switch1"; UniqueID = "\JHQBFVVM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "S3"; Footprint = "Switch1"; UniqueID = "\AMWNDNQP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "S4"; Footprint = "Switch1"; UniqueID = "\CJESCTOK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "S5"; Footprint = "Switch1"; UniqueID = "\CGHCJSPY"
+Change component parameters. Clean all parameters for all variants

@@ -1,0 +1,86 @@
+Change Component DesignItemId : Designator=U1 Old DesignItemId=CC254 New DesignItemId=CC2541V7
+Change Component DesignItemId : Designator=U2 Old DesignItemId=E32- New DesignItemId=E32-433
+Change Component DesignItemId : Designator=U4 Old DesignItemId=MCP6 New DesignItemId=MCP6001
+Change Component DesignItemId : Designator=OLED1 Old DesignItemId=OLED New DesignItemId=OLED12864
+Change Component DesignItemId : Designator=N3 Old DesignItemId=P- New DesignItemId=P-MOS
+Change Component DesignItemId : Designator=M1 Old DesignItemId=Screw H New DesignItemId=Screw Hole
+Change Component DesignItemId : Designator=M2 Old DesignItemId=Screw H New DesignItemId=Screw Hole
+Change Component DesignItemId : Designator=M3 Old DesignItemId=Screw H New DesignItemId=Screw Hole
+Change Component DesignItemId : Designator=M4 Old DesignItemId=Screw H New DesignItemId=Screw Hole
+Change Component DesignItemId : Designator=U3 Old DesignItemId=SI4 New DesignItemId=SI4463
+Change Component DesignItemId : Designator=S1 Old DesignItemId=Swi New DesignItemId=Switch
+Change Component DesignItemId : Designator=S2 Old DesignItemId=Swi New DesignItemId=Switch
+Change Component DesignItemId : Designator=S3 Old DesignItemId=Swi New DesignItemId=Switch
+Change Component DesignItemId : Designator=S4 Old DesignItemId=Swi New DesignItemId=Switch
+Change Component DesignItemId : Designator=S5 Old DesignItemId=Swi New DesignItemId=Switch
+Change Component DesignItemId : Designator=USB_1 Old DesignItemId=U New DesignItemId=USB5
+Change Component DesignItemId : Designator=U9 Old DesignItemId=W New DesignItemId=WTN6
+Change Component Description : Designator=Q1 Old Description= New Description=Èı¼«¹Ü
+Change Component Description : Designator=R1 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R2 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R3 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R4 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R5 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R6 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R7 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R8 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R9 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R10 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R11 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R12 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R13 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R14 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R15 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R16 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R17 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R18 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R19 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R20 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R21 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R30 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R31 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=R32 Old Description= New Description=ÌùÆ¬µç×è
+Change Component Description : Designator=U7 Old Description=500mA, Low-Noise LDO Voltage Regula New Description=500mA, Low-Noise LDO Voltage Regulator
+Change Component Description : Designator=C1 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C2 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C3 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C4 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C5 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C6 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C16 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C17 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C18 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C19 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C20 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C21 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C22 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C23 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C24 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C25 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C26 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C27 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C28 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C29 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C30 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C31 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C32 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C33 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C34 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C35 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C36 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C39 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C40 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=C42 Old Description=? New Description=ÌùÆ¬µçÈİ
+Change Component Description : Designator=Y1 Old Description=Crystal Oscilla New Description=Crystal Oscillator
+Change Component Description : Designator=P3 Old Description=Header, 2- New Description=Header, 2-Pin
+Change Component Description : Designator=P4 Old Description=Header, 2- New Description=Header, 2-Pin
+Change Component Description : Designator=P1 Old Description=Header, 3- New Description=Header, 3-Pin
+Change Component Description : Designator=P2 Old Description=Header, 4- New Description=Header, 4-Pin
+Change Component Description : Designator=P5 Old Description=Header, 4- New Description=Header, 4-Pin
+Change Component Description : Designator=U6 Old Description=STM32 ARM-based 32-bit MCU with 32 Kbytes Flash, 48-pin LQFP, Industrial Tempe New Description=STM32 ARM-based 32-bit MCU with 32 Kbytes Flash, 48-pin LQFP, Industrial Temperature
+Change Component Description : Designator=U5 Old Description=TP4 New Description=TP4056
+Change Component Description : Designator=LED1 Old Description=Typical INFRARED GaAs New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=LED2 Old Description=Typical INFRARED GaAs New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=LED3 Old Description=Typical INFRARED GaAs New Description=Typical INFRARED GaAs LED
+Change Component Description : Designator=VR1 Old Description=µÍÑ¹²îÏß? New Description=µÍÑ¹²îÏßĞÔÎÈÑ¹(LDO)
+Added Room: Name=Ïû·À±³±í

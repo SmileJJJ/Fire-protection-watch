@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SI_RST Pin=U6-3
+Removed Pin From Net: NetName=SPK_BUSY Pin=U6-11
+Added Pin To Net: NetName=SPK_BUSY Pin=U6-3
+Added Pin To Net: NetName=SI_RST Pin=U6-11

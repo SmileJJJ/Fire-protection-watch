@@ -1,0 +1,8 @@
+Added Component: Designator=M1(Screw hexagon 3mm)
+Added Component: Designator=M2(Screw hexagon 3mm)
+Added Component: Designator=M3(Screw hexagon 3mm)
+Added Component: Designator=M4(Screw hexagon 3mm)
+Added Member To Class: ClassName=消防背表 Member=Component M1 Screw Hole
+Added Member To Class: ClassName=消防背表 Member=Component M2 Screw Hole
+Added Member To Class: ClassName=消防背表 Member=Component M3 Screw Hole
+Added Member To Class: ClassName=消防背表 Member=Component M4 Screw Hole
