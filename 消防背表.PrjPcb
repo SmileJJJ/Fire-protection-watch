@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=XSPHKSBN
+DocumentUniqueId=SLJKQCON
 
 [Document3]
 DocumentPath=si4455.SchLib
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=APLKPGWM
+DocumentUniqueId=NTVVYKGR
 
 [Document4]
 DocumentPath=PcbLib1.PcbLib
@@ -123,23 +123,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document6]
-DocumentPath=C:\Users\Administrator\Desktop\消防背表.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HKHQRIBV
-
-[Document7]
 DocumentPath=H:\AD集成库\嘉立创\Miscellaneous Devices LC.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
+[Document7]
 DocumentPath=H:\AD集成库\元件库整理（2014.11.08）\Project Outputs for (NEW)DRC_MD Library\(NEW)DRC_MD Library.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
