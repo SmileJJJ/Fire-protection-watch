@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SLJKQCON
+DocumentUniqueId=REREDUSB
 
 [Document3]
 DocumentPath=si4455.SchLib
@@ -86,7 +86,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=NTVVYKGR
+DocumentUniqueId=KSCUJIQI
 
 [Document4]
 DocumentPath=PcbLib1.PcbLib
@@ -124,23 +124,6 @@ DocumentUniqueId=
 
 [Document6]
 DocumentPath=H:\AD集成库\嘉立创\Miscellaneous Devices LC.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
-DocumentPath=H:\AD集成库\元件库整理（2014.11.08）\Project Outputs for (NEW)DRC_MD Library\(NEW)DRC_MD Library.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0

@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=R9-1
+Added Component: Designator=R28(0603_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_21904.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C21190"; VariantName = "[No Variations]"
+Added Component: Designator=R29(0603_R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_21904.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C21190"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD3.3 Pin=R9-2
+Added Pin To Net: NetName=VCC_BAT Pin=R28-1
+Added Pin To Net: NetName=NetR25_1 Pin=R28-2
+Added Pin To Net: NetName=VCC_BAT Pin=R29-1
+Added Pin To Net: NetName=NetR23_1 Pin=R29-2
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=S5-1
+Added Pin To Net: NetName=NetR9_1 Pin=S5-1
+Added Net: Name=NetR9_1
+Added Member To Class: ClassName=消防背表 Member=Component R28 10KΩ (1001) ±1%
+Added Member To Class: ClassName=消防背表 Member=Component R29 10KΩ (1001) ±1%
